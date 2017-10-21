@@ -28,6 +28,7 @@ namespace GDIPlus_1
             e.Graphics.DrawLine(blackPen, point1, point2);
             blackPen.Dispose();
 
+
         }
     }
 }
